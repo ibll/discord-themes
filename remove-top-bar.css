@@ -1,0 +1,20 @@
+.bar_c38106 {
+    display: none;
+}
+
+.base_c48ade {
+    grid-template-rows: none !important;
+}
+
+.scroller_ef3116 {
+    padding-top: var(--space-xs) !important;
+}
+
+.visual-refresh .sidebarListRounded_c48ade {
+    border-top-left-radius: 0;
+    border-top: none;
+}
+
+.chat_f75fb0, .container__133bf {
+    border-top: none !important;
+}
